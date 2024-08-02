@@ -8,6 +8,7 @@ import Fractals.FractalInfo;
 import GameState.RenderingPage;
 import Main.GameVariables;
 import UI.ColorField;
+import UI.Component;
 
 public class FractalColoring extends Component {
 

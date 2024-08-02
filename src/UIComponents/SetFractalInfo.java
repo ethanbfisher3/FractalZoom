@@ -5,6 +5,7 @@ import GameState.GameState;
 import Main.GameVariables;
 import Main.Mathf;
 import UI.Button;
+import UI.Component;
 import UI.Text.NumberDocument;
 import UI.Text.Text;
 import UI.Text.TextField;

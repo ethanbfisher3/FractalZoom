@@ -12,6 +12,7 @@ import GameState.RenderingPage;
 import Main.ContentPane;
 import Main.GameVariables;
 import Main.Mathf;
+import UI.Component;
 import UI.ImageButton;
 
 public class ViewSavedFractalsComponent extends Component {

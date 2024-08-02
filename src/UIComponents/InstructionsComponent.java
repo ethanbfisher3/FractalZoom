@@ -4,6 +4,7 @@ import java.awt.Graphics;
 
 import GameState.GameState;
 import Main.GameVariables;
+import UI.Component;
 import UI.UI;
 
 public class InstructionsComponent extends Component {

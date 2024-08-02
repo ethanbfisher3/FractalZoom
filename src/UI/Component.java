@@ -1,12 +1,10 @@
-package UIComponents;
+package UI;
 
 import java.awt.Color;
 import java.awt.Graphics;
 import java.util.ArrayList;
 
 import GameState.GameState;
-import UI.Anchor;
-import UI.UIElement;
 
 public class Component extends UIElement {
 

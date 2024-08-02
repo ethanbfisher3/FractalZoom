@@ -8,6 +8,7 @@ import GameState.GameState;
 import GameState.RenderingPage;
 import Main.GameVariables;
 import UI.Button;
+import UI.Component;
 import UI.ImageButton;
 import UI.UI;
 
